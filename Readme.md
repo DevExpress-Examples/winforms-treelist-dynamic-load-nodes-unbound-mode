@@ -6,7 +6,7 @@
 
 # WinForms TreeList - Dynamic node loading in unbound mode
 
-This example displays you local file-foldr structure in the [WinForms TreeList](https://www.devexpress.com/products/net/controls/winforms/tree_list/) control. The example implements dynamic node loading in [unbound mode](https://docs.devexpress.com/WindowsForms/5557/controls-and-libraries/tree-list/feature-center/data-binding/unbound-mode):
+This example displays your local file-folder structure in the [WinForms TreeList](https://www.devexpress.com/products/net/controls/winforms/tree_list/) control. The example implements dynamic node loading in [unbound mode](https://docs.devexpress.com/WindowsForms/5557/controls-and-libraries/tree-list/feature-center/data-binding/unbound-mode):
 
 ```csharp
 private void treeList1_BeforeExpand(object sender, DevExpress.XtraTreeList.BeforeExpandEventArgs e) {
