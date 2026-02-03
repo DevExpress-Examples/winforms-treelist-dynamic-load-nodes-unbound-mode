@@ -8,7 +8,8 @@
     <ProjectGuid>{F13BDA4A-DAA3-4234-A46E-3A59447B7E9D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <AssemblyName>TreeList-UnboundMode-ViaBeforeExpandEvent</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
