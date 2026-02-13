@@ -33,7 +33,7 @@ private void treeList1_BeforeExpand(object sender, DevExpress.XtraTreeList.Befor
 * [Virtual Mode - Binding to a Hierarchical Business Object (Data Source Level)](https://docs.devexpress.com/WindowsForms/2486/controls-and-libraries/tree-list/feature-center/data-binding/virtual-mode-binding-to-a-hierarchical-business-object-data-source-level)
 * [Virtual Mode (Dynamic Data Loading) Using Events (Tree List Level)](https://docs.devexpress.com/WindowsForms/5560/controls-and-libraries/tree-list/feature-center/data-binding/virtual-mode-dynamic-data-loading-using-events-tree-list-level)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-dynamic-load-nodes-unbound-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-dynamic-load-nodes-unbound-mode&~~~was_helpful=no)
 
